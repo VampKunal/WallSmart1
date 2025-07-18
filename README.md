@@ -1,4 +1,4 @@
-# GreenStock AI - Inventory Management Dashboard
+# WALLSMART1- Inventory Management Dashboard
 
 A full-stack inventory management dashboard built with Next.js, featuring AI-powered insights, route optimization, and real-time analytics.
 
